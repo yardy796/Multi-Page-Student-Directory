@@ -1,4 +1,3 @@
-// app/page.js  (Home)
 import Link from "next/link";
 import StudentCard from "./components/StudentCard";
 

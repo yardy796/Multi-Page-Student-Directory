@@ -1,5 +1,3 @@
-// Hard-coded student data (no database needed for this lab).
-// Replace these with your real classmates.
 export const students = [
   {
     id: 1,

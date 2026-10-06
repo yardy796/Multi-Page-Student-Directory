@@ -1,4 +1,3 @@
-// app/students/[id]/page.js
 import Link from "next/link";
 import { students } from "../../data/students";
 import LikeButton from "../../components/LikeButton";

@@ -1,4 +1,3 @@
-// app/layout.js
 import "./globals.css";
 import Link from "next/link";
 import Footer from "./components/Footer";

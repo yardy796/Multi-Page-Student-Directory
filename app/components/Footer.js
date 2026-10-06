@@ -1,5 +1,3 @@
-// app/components/Footer.js
-// A component without props (static UI).
 export default function Footer() {
   return (
     <footer className="mt-16 border-t border-sumi/20 py-6 text-center text-xs uppercase tracking-widest text-sumi/50">

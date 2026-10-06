@@ -1,5 +1,4 @@
 "use client";
-// Optional extra from Week 8 (useState). Safe to delete.
 import { useState } from "react";
 
 export default function LikeButton() {
