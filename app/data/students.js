@@ -1,10 +1,10 @@
 export const students = [
   {
     id: 1,
-    name: "Juan Dela Cruz",
-    yearSection: "2nd Year - BSIT 2A",
+    name: "Jerald Arbuso Dasillo",
+    yearSection: "3rd Year - BSIT",
     course: "BS Information Technology",
-    bio: "Enjoys building websites and learning new frameworks.",
+    bio: "Enjoys making games and exploring languages.",
   },
   {
     id: 2,

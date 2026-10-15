@@ -29,8 +29,8 @@ export default function Home() {
       </h2>
       <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
         <StudentCard
-          name="Juan Dela Cruz"
-          yearSection="2nd Year - BSIT 2A"
+          name="Jerald Arbuso Dasillo"
+          yearSection="3rd Year - BSIT"
           course="BS Information Technology"
         />
         <StudentCard
