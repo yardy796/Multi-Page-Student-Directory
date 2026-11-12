@@ -15,12 +15,20 @@ export default function Home() {
             Welcome. Browse our class and open a profile to learn more about
             each student.
           </p>
-          <Link
-            href="/students"
-            className="mt-5 inline-block border border-sumi px-5 py-2 text-sm uppercase tracking-widest transition hover:bg-sumi hover:text-washi"
-          >
-            View Students
-          </Link>
+          <div className="mt-5 flex flex-wrap gap-3">
+            <Link
+              href="/students"
+              className="inline-block border border-sumi px-5 py-2 text-sm uppercase tracking-widest transition hover:bg-sumi hover:text-washi"
+            >
+              View Students
+            </Link>
+            <Link
+              href="/task-tracker"
+              className="inline-block border border-shu px-5 py-2 text-sm uppercase tracking-widest text-shu transition hover:bg-shu hover:text-washi"
+            >
+              Task Tracker
+            </Link>
+          </div>
         </div>
       </section>
 
